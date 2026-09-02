@@ -21,15 +21,16 @@ Seeking: Business Analyst | Data Analyst | Business Data Analyst roles
 
 ## 🎯 Who I Am
 
-I'm a Business Data Analyst with a proven track record of turning operational data into dashboards, forecasting models, and reports that drive business decisions. Currently completing my MS in Business Analytics at the University at Buffalo, while working as a Data Analyst Intern at Holiday Channel and a Data Research Analyst at the University at Buffalo's Center for Supply Chain Analytics.
+I'm a **Business Data Analyst** with a proven track record of turning operational data into dashboards, forecasting models, and reports that drive business decisions. Currently completing my **MS in Business Analytics at the University at Buffalo**, while working as a **Data Analyst Intern at Holiday Channel** and a **Data Research Analyst at the University at Buffalo's Center for Supply Chain Analytics**.
 
-My Background: Spent 2+ years at Gartner, Inc., where I worked as a Business Analyst on the Insights and Product Analytics team, building automation and forecasting infrastructure to support product-performance decisions. I specialized in:
+**My Background:** Spent **2+ years at Gartner, Inc.**, where I worked as a Business Analyst on the Insights and Product Analytics team, building automation and forecasting infrastructure to support product-performance decisions. I specialized in:
 
-📊 Automated QA Pipelines: Built SQL, OneLake, and Python pipelines to validate research-consumption and product-usage data, cutting manual QA time by 68%
-💰 Cost-Benefit Modeling: Built a cost-benefit model for streamlining recurring product-performance reviews, projecting ~$300K in annual savings
-🤖 Workflow Automation: Mapped the end-to-end research and analytics workflow, identifying automation opportunities projecting ~$1M in annual productivity savings
-📈 Forecast Accuracy: Regrounded engagement and retention assumptions in an NPV-based product investment model, improving forecast accuracy by 30%
-🤝 Cross-functional Collaboration: Worked with IPA, BTI, and Product Management stakeholders to redesign analytics workflows and reduce turnaround time
+- 📊 **Automated QA Pipelines:** Built SQL, OneLake, and Python pipelines to validate research-consumption and product-usage data, cutting manual QA time by **68%**
+- 💰 **Cost-Benefit Modeling:** Built a cost-benefit model for streamlining recurring product-performance reviews, projecting **~$300K** in annual savings
+- 🤖 **Workflow Automation:** Mapped the end-to-end research and analytics workflow, identifying automation opportunities projecting **~$1M** in annual productivity savings
+- 📈 **Forecast Accuracy:** Regrounded engagement and retention assumptions in an NPV-based product investment model, improving forecast accuracy by **30%**
+- 🤝 **Cross-functional Collaboration:** Worked with IPA, BTI, and Product Management stakeholders to redesign analytics workflows and reduce turnaround time
+
 ---
 
 ## 🔬 Current Focus
